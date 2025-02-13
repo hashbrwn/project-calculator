@@ -1,1 +1,10 @@
- 
+.display {
+  width: 40%;
+  height: 60px;
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+  text-align: right;
+  padding: 10px;
+  border-radius: 5px;
+}
